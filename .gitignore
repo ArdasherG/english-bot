@@ -1,0 +1,22 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Audio temp files
+*.ogg
+*.mp3
+*.wav
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
